@@ -4,11 +4,8 @@ Im a gifted, queer, poc person that hopes to become a programmer in the future!
 also i love obsolete scratch blocks lol
 
 Pronouns: All of them
-
 Gender: Oppofem
-
 How to contact me: Email me at viijose@outlook.com
-
 Biggest project: Xlazers and Splitter.sb3
 
 ## Languages i know:
