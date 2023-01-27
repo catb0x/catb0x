@@ -6,7 +6,7 @@ also i love obsolete scratch blocks lol
 - Pronouns: All of them
 - Gender: Quoimasc
 - How to contact me: Email me at viijose@outlook.com
-- Biggest project: ~~Xlazers and Splitter.sb3
+- Biggest project: ~~Xlazers and Splitter.sb3~~
 
 ## Languages i know:
 - Scratch
