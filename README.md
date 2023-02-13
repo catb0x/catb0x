@@ -6,7 +6,7 @@ also i love obsolete scratch blocks lol
 - Pronouns: All of them
 - Gender: Quoimasc
 - How to contact me: Email me at viijose@outlook.com
-- Biggest project: ~~Xlazers and Splitter.sb3~~ Newsplitter (Scratch) and GUISpeed (AHK)
+- Biggest project: ~~Xlazers and Splitter.sb3~~ Newsplitter (Scratch) and VeloBoost (AHK)
 
 ## Languages i know:
 - Scratch
@@ -14,4 +14,4 @@ also i love obsolete scratch blocks lol
 
 ## Languages i want to learn:
 - Python
-- Java
+- Rust
