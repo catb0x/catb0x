@@ -11,7 +11,8 @@ also i love obsolete scratch blocks lol
 ## Languages i know:
 - Scratch
 - AutoHotKey
+- Basic Powershell
 
 ## Languages i want to learn:
 - Python
-- Rust
+- Lua(u)
