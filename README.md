@@ -6,7 +6,7 @@ also i love obsolete scratch blocks lol
 - Pronouns: He/They
 - Gender: Quoimasc
 - How to contact me: Email me at viijose@outlook.com
-- Biggest project: ~~Xlazers and Splitter.sb3~~ Newsplitter (Scratch) and VeloBoost (AHK)
+- Biggest project: ~~Xlazers and Splitter.sb3~~ Newsplitter (Scratch), VeloBoost (AHK), and RbxModTool (PWSH)
 
 ## Languages i know:
 - Scratch
