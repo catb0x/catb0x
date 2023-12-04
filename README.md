@@ -4,7 +4,7 @@ Im a gifted, queer, poc person that hopes to become a programmer in the future!
 also i love obsolete scratch blocks lol
 
 - Pronouns: He/They
-- Gender: Quoimasc
+- Gender: idek at this point but male ig,,
 - How to contact me: Email me at viijose@outlook.com
 - Biggest project: ~~Xlazers and Splitter.sb3~~ Newsplitter (Scratch), VeloBoost (AHK), and RbxModTool (PWSH)
 
