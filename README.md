@@ -1,6 +1,6 @@
 # Me!
-Hi! Im kit, also known as catb0x, ferikkusu, itaIic, Jose_Pablo50, josepablo50, and kit50 on other sites
-Im a gifted, queer, poc person that hopes to become a programmer in the future!
+Hi! I'm kit, also known as catb0x, ferikkusu, itaIic, Jose_Pablo50, josepablo50, and kit50 on other sites
+I'm an autistic, queer, poc person that hopes to become a programmer in the future!
 also i love obsolete scratch blocks lol
 
 - Pronouns: He/They
